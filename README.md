@@ -1,6 +1,6 @@
 # Hi, I'm Siphiwe Auguast Nhlapo 👋
 
-🎓 Diploma in Computer Networking (Passed out)  
+🎓 Diploma in Computer Networking  
 💻 Aspiring Network Engineer | IT Support Specialist  
 🌍 South Africa  
 
