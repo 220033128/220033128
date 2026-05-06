@@ -34,10 +34,16 @@ I am currently building hands-on projects to strengthen my practical skills and 
 ## 📂 Projects
 
 ### 🔌 Small Business VLAN Network (Cisco Packet Tracer)
-- VLAN segmentation (HR, Sales, IT)
-- Router-on-a-stick inter-VLAN routing
-- IP addressing & troubleshooting
-- 0% packet loss connectivity test
+A CCNA-level network simulation project demonstrating VLAN segmentation and inter-VLAN routing.
+
+- VLANs: HR, Sales, IT  
+- Router-on-a-stick configuration  
+- IP addressing & troubleshooting  
+- Full connectivity (0% packet loss)  
+
+👉 🔗 https://github.com/220033128/small-business-vlan-network
+
+---
 
 ### 🔧 IT Support Automation Scripts
 - (Coming soon)
@@ -56,7 +62,7 @@ I am currently building hands-on projects to strengthen my practical skills and 
 ## 📫 Contact Me
 📧 sphiweluyanda0@gmail.com  
 📱 078 675 9122  
-🔗 LinkedIn: in/siphiwe-nhlapo-36a201395  
+🔗 LinkedIn: https://linkedin.com/in/siphiwe-nhlapo-36a201395  
 
 ---
 
