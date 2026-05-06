@@ -1,4 +1,4 @@
-# Hi, I'm Siphiwe Auguast Nhlapo 👋
+# Hi, I'm Siphiwe Nhlapo 👋
 
 🎓 Diploma in Computer Networking (Graduate)  
 💻 Aspiring Network Engineer | IT Support Specialist  
@@ -31,10 +31,19 @@ I am currently building hands-on projects to strengthen my practical skills and 
 
 ---
 
-## 📂 Projects (Coming Soon 🚀)
-- Network Design Lab (Cisco Packet Tracer)  
-- IT Support Automation Scripts  
-- Django Web Application  
+## 📂 Projects
+
+### 🔌 Small Business VLAN Network (Cisco Packet Tracer)
+- VLAN segmentation (HR, Sales, IT)
+- Router-on-a-stick inter-VLAN routing
+- IP addressing & troubleshooting
+- 0% packet loss connectivity test
+
+### 🔧 IT Support Automation Scripts
+- (Coming soon)
+
+### 🌐 Django Web Application
+- (Coming soon)
 
 ---
 
@@ -47,6 +56,7 @@ I am currently building hands-on projects to strengthen my practical skills and 
 ## 📫 Contact Me
 📧 sphiweluyanda0@gmail.com  
 📱 078 675 9122  
+🔗 LinkedIn: in/siphiwe-nhlapo-36a201395  
 
 ---
 
